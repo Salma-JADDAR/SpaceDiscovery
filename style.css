@@ -656,7 +656,7 @@ body {
   line-height: 1.6;
   margin-top: 0; 
 }
-/* ==== CONTAINER (2 colonnes) ==== */
+/* ==== CONTAINER (2  colonnes) ==== */
 .contact-container {
   display: flex;
   justify-content: space-between;
