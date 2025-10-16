@@ -509,6 +509,7 @@ nav ul li a:active {
 }
 
 .cards {
+  
   display: flex; 
   justify-content: center;
   gap: 30px;            
